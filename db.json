@@ -1,0 +1,12 @@
+{
+  "equipo": [
+    {
+      "nombre": "pikachu",
+      "imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+      "nivel": 6,
+      "favorito": false,
+      "id": "539Iki1Cx7w"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
